@@ -1,0 +1,9 @@
+
+.CarsDetails{
+    color: yellowgreen;
+    background-color: black;
+    font-weight: 200;
+    font-family: helvetica;
+    padding: 3px;
+    list-style-type: none;
+}
